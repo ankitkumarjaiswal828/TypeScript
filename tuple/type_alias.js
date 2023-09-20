@@ -1,0 +1,10 @@
+"use strict";
+let a = 10;
+let b = "Ankit";
+let c;
+let x = 10;
+let y = "Ankit";
+let z;
+console.log(x);
+console.log(y);
+console.log(z);
